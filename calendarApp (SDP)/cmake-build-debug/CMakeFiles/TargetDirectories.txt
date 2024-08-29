@@ -1,0 +1,3 @@
+F:/Softwer Development Project/calendarApp/cmake-build-debug/CMakeFiles/calenterApp.dir
+F:/Softwer Development Project/calendarApp/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Softwer Development Project/calendarApp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
