@@ -7,6 +7,7 @@ int main(){
 
     // Input three integer
     std::cout << "Enter Three Integers Numbers: " << std::endl;
+    // user Input
     std::cin >> a >> b >> c;
 
     if ((a >= b && a <= c) || (a >= c && a <= b)) {
@@ -16,7 +17,7 @@ int main(){
     } else {
         secondMax = c;
     }
-
+    // Output the second maximum number
     std::cout << "The second maximum number is: " << secondMax << std::endl;
     
     return 0;
